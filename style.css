@@ -1,0 +1,38 @@
+html {
+  font-size: 15px;
+  font-family: "Oswald", sans-serif;
+  font-style: normal;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+p,
+li{
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: aqua;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: blueviolet;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color:chartreuse;
+  text-shadow: 5px 5px 2px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
